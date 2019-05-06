@@ -2,6 +2,7 @@
 Um projeto java web em desenvolvimento. Gerenciador de Projetos.
 Desenvolvido em Java 8, Eclipse, Tomcat V8.
 O SGBD escolhido foi o MySQL.
+Existe um relatório técnico com relação aos exercícios 1 e 2.
 
 Resposta do exercício 3:
 OOP é a sigla do inglês Oriented Object Programming, um paradigma baseada em conceitos de "Objetos".
